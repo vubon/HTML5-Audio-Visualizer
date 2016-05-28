@@ -1,0 +1,23 @@
+.audio{
+	margin: 0 auto;
+	width:960px;
+	
+}
+
+
+body {
+    background: #000;
+    text-align: center;
+    color: #fff;
+}
+a{
+    color:yellow;
+}
+#canvas2
+{
+	transform: rotateX(230deg);
+	-webkit-transform:(230deg);
+	transform: rotateX(230deg);
+	top: -41px;
+	position: relative;
+}
